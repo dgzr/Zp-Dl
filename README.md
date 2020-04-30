@@ -3,7 +3,9 @@
 ## required
  + [python3.8.x](https://www.python.org/downloads/release/python-382/)
 
- + [Tqdm](https://pypi.org/project/tqdm/)
+ + [requests](https://pypi.org/project/requests/)
+
+ + [tqdm](https://pypi.org/project/tqdm/)
 
 -----------
  ## Sample image
