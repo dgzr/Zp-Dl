@@ -8,6 +8,3 @@
  + [tqdm](https://pypi.org/project/tqdm/)
 
 -----------
- ## Sample image
-
-![](https://i.ibb.co/PMVz8TG/Screenshot-20200430-162046-picsay.png)
